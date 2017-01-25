@@ -1,0 +1,5 @@
+[system=10]
+add path 'usbctl' mode 660 group operator
+add path 'usb/*' mode 660 group operator
+add path 'ugen*' mode 0660 group operator
+add path 'da*' mode 0660 group operator
