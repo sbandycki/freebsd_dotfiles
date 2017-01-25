@@ -1,1 +1,1 @@
-# freebsd_dotfiles
+Just some config files for FreeBSD 11
